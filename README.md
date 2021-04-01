@@ -16,7 +16,7 @@ sudo apt-get install golang-go
 ```
 Next, clone the source code of AIGCover, enter the AIGCover directory:
 ```
-git clone https://github.com/aigcover/AigCover.git
+git clone https://github.com/aigcover/AIGCover.git
 cd AIGCover
 ```
 Then, make AIGCover:
