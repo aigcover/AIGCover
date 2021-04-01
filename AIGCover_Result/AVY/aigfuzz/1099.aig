@@ -1,0 +1,18 @@
+aig 77 38 2 1 37
+77
+82
+154
+
+*3?$/>$RA
+&0>K.C<0r
+ZƒzbZ"?M<Dc
+aigfuzz -m -1 1587618868
+seed 1587618868
+fuzzer layers
+depth 2
+width 56
+input fraction 7%
+latch fraction 28%
+lower fraction 20%
+monotonicity 0
+and closure

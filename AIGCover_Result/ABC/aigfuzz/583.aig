@@ -1,0 +1,20 @@
+aig 108 15 3 1 90
+41
+55
+60
+217
+	
+%(,
+0*7
+;	>:;:*$6020
+J-:'A";H"eRn0N$ê$iBùUN8Q0;		$)~c
+aigfuzz -m -1 1349410196
+seed 1349410196
+fuzzer layers
+depth 7
+width 82
+input fraction 15%
+latch fraction 68%
+lower fraction 0%
+monotonicity -1
+merge closure

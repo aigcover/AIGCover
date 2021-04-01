@@ -1,0 +1,28 @@
+aig 93 11 12 1 70
+48
+51
+24
+54
+50
+16
+50
+56
+29
+40
+61
+62
+186
+ ,	#&79		JG	07>#7&	
+#/G& cSNO=@,3a%Q
+„;p+kBD3
+‡/Wkc
+aigfuzz -m -1 1304983398
+seed 1304983398
+fuzzer layers
+depth 3
+width 39
+input fraction 17%
+latch fraction 81%
+lower fraction 50%
+monotonicity 0
+merge closure

@@ -1,0 +1,13 @@
+aig 117 22 0 1 95
+235
+%&&).0PN)=2'R]Rf!we}	yŽ‹‡R3ŒšŠŠ	°½Ÿ¡79MK’’c
+aigfuzz -m -1 364556918
+seed 364556918
+fuzzer layers
+depth 3
+width 11
+input fraction 14%
+latch fraction 1%
+lower fraction 40%
+monotonicity 1
+xor closure

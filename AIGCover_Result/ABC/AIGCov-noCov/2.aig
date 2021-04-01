@@ -1,0 +1,7 @@
+aig 15 5 0 1 10
+30
+i0 bvlambda_1_[0]
+i1 bvlambda_1_[4]
+i2 bvlambda_1_[3]
+i3 bvlambda_1_[2]
+i4 bvlambda_1_[1]

@@ -1,0 +1,14 @@
+aig 106 26 0 1 80
+212
+!	$	)&MI3+/CB<?(YWGdKYVb"uxm
+(|‡†•€‰„’’†«®#ª+4c
+aigfuzz -m -1 1893284630
+seed 1893284630
+fuzzer layers
+depth 3
+width 16
+input fraction 15%
+latch fraction 14%
+lower fraction 10%
+monotonicity -1
+and closure

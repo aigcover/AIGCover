@@ -1,0 +1,17 @@
+aig 94 9 2 1 83
+36
+27
+189
+
+			++HC5$"F#D*!$":		 
+*$D#$	C"R,7AYc
+aigfuzz -m -1 1085113690
+seed 1085113690
+fuzzer layers
+depth 8
+width 11
+input fraction 3%
+latch fraction 42%
+lower fraction 0%
+monotonicity -1
+merge closure

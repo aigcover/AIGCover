@@ -1,0 +1,15 @@
+aig 77 13 1 1 63
+30
+155
+			!*#.;4
+'%00V2T3tev$$ppc
+aigfuzz -m -1 1144611392
+seed 1144611392
+fuzzer layers
+depth 3
+width 13
+input fraction 20%
+latch fraction 51%
+lower fraction 0%
+monotonicity 0
+xor closure
